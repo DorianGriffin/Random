@@ -1,0 +1,13 @@
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.exe
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.deps.json
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.runtimeconfig.json
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.runtimeconfig.dev.json
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.dll
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\bin\Debug\netcoreapp3.1\AddToNumbers.pdb
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.csproj.AssemblyReference.cache
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.AssemblyInfoInputs.cache
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.AssemblyInfo.cs
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.dll
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.pdb
+C:\Users\dgrif\source\repos\Leetcode\AddToNumbers\AddToNumbers\obj\Debug\netcoreapp3.1\AddToNumbers.genruntimeconfig.cache
